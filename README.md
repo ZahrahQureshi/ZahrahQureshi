@@ -1,7 +1,5 @@
 # 💫 About Me:  <div align="center">
-  <a href="https://webpets-flame.vercel.app">
-    <img src="https://webpets-flame.vercel.app/generated/totoro/gray_walk_8fps.gif" width="120" alt="My Totoro Pet" />
-  </a>
+  
 </div>
  I'm currently working on a web app project exploring full-stack development<br> I'm looking to collaborate on open-source projects, especially anything involving APIs or automation<br> I'm looking for help with advanced backend architecture and deployment best practices<br>I'm currently learning DSA and cloud fundamentals (AWS/GCP)<br>Ask me about web development, competitive programming, or anything C++/Python<br>Fun fact — I once debugged for 3 hours only to find a missing semicolon
 
